@@ -113,7 +113,8 @@ def run(protocol):
 
 
   pipette_20ul.drop_tip()
-
+  
+  pipette_20ul.pick_up_tip()
   while i < len(world_coord_x_85mm_shifted):
     if group [i] == 18 : 
       break
@@ -130,3 +131,4 @@ def run(protocol):
     i+=1
 
   pipette_20ul.drop_tip()
+  
