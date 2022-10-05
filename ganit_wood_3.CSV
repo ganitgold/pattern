@@ -1,0 +1,5 @@
+"Object Count","Layer Name","Layer Color R,G,B","Layer Index","Group Names","Group Indexes","Object Name","Object ID","Object Color R,G,B","Object Material","Object Category","Object Type","Object Keys"
+"1","green","43,184,87","0","","","","59d19a99-8d60-4d30-955b-7f9022872305","0,0,0","","point","100.0000000000001,99.99999999999994,0"
+"2","red","255,31,0","1","","","","cf911d17-c8a0-458f-a792-30f64a7b82f0","0,0,0","","point","99.99999999999994,-100.0000000000001,0"
+"3","red","255,31,0","1","","","","a0cd8011-1204-4ec2-97d5-2b3ee522073d","0,0,0","","point","-100.0000000000001,-99.99999999999994,0"
+"4","green","43,184,87","0","","","","c0b8f1f0-34d6-4ace-bb94-47cbc444e3ad","0,0,0","","point","-99.99999999999994,100.0000000000001,0"
